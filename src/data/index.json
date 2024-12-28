@@ -1,0 +1,171 @@
+{
+    "education":[
+      {
+        "course":"B. TECH (Computer Science)",
+        "intitute":"Acropolis Institute of Technology and Research, Indore",
+        "session":"2020-2024",
+        "grade":"8.06 CGPA"
+      },
+      {
+        "course":"INTERMEDIATE (MP Board)",
+        "intitute":"Nikhil Vidhya Vihar Higher Secondary School, Khargone",
+        "session":"2019-2020",
+        "grade":"83.2%"
+      },
+      {
+        "course":"MATRICULATION (MP Board)",
+        "intitute":"Nikhil Vidhya Vihar Higher Secondary School, Khargone",
+        "session":"2017-2018",
+        "grade":"92%"
+      }
+    ],
+    "training":[
+      {
+        "name":"MERN stack",
+        "duration":"Oct 2022-Dec 2022",
+        "intitute":"Universal Informatics,Indore",
+        "discription":"I learned creating a full-stack dynamic web application using MERN technology."
+      },
+      {
+        "name":"Robotic Process Automation",
+        "duration":"Jul 2022-Aug 2022",
+        "intitute":"Acropolis Institute of Technology And Research, Indore",
+        "discription":"I learned creating an RPA bot using UiPath Studio to automate repetitive, rule-based tasks."
+      },
+      {
+        "name":"TCS-ION Creer Edge",
+        "duration":"Sep 2022-Oct 2022",
+        "intitute":"TCS ION Learning Hub",
+        "discription":"Course covered communication, presentation, soft skills, business etiquette, and IT fundamentals, enhancing my professional and interpersonal capabilities."
+      }
+    ],
+
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Webflow Development",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      }
+    ],
+    "skilldata": [
+      {
+        "src": "./img/Languages/cpp.png",
+        "title": "C++",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/js.png",
+        "title": "Javascript",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/nodejs.png",
+        "title": "Node js",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/react.png",
+        "title": "React",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/redux.png",
+        "title": "Redux",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/express.png",
+        "title": "Express js",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/mongodb.png",
+        "title": "MongoDB",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/mysql.png",
+        "title": "MySQL",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/git.png",
+        "title": "Git",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "src": "./img/Languages/github.png",
+        "title": "Github",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      }
+    ]
+    ,
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/homestay.png",
+        "title": "Culture Living",  
+        "description": "A full MERN stack based web application to support authentic family to run their homestay by provding accommodation to tourist and travellers. ReactJS used to create fully responsive, single page front-end. ExpressJS is used to create APIs and MongoDB is used for storing data.",
+        "link": "https://github.com/kuldeeppanwar123/Culture-Living-MERN-Project"
+      },
+      {
+        "id": "2",
+        "src": "./img/helloworld.png",
+        "title": "Hello World!",
+        "description": "A full MERN stack web app that emulates core functionality of social media platforms. I implemented features including user login-signup, post creation, like the posts and follow unfollow the other users. along with MERN Technology, I used Redux for state management, JWT Token for authentication.,",
+        "link": "https://github.com/kuldeeppanwar123/Hello-World"
+      },
+      {
+        "id": "3",
+        "src": "./img/taskmanager.png",
+        "title": "Task Manager",
+        "description": "A MERN stack based Task Manager web application empowers users to efficiently manage tasks with ease. With comprehensive CRUD functionality, you can effortlessly create, view, update, and delete tasks, providing a seamless and organized task management experience.",
+        "link": "https://github.com/kuldeeppanwar123/Task-Manager-full-stack-MERN-project"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
